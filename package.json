@@ -1,0 +1,29 @@
+{
+  "name": "toggle-visibility-on-mouse-over",
+  "version": "1.0.0",
+  "description": "Toggles the visibility of the immediate child elements when a parent element is passed.",
+  "main": "toggleVisibility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azl23635/toggle-visibility-on-mouse-over.git"
+  },
+  "keywords": [
+    "visibility",
+    "mouse",
+    "over",
+    "mouseover",
+    "toggle",
+    "js",
+    "javascript",
+    "module"
+  ],
+  "author": "Anzel Pyakurel <rmitanzel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azl23635/toggle-visibility-on-mouse-over/issues"
+  },
+  "homepage": "https://github.com/Azl23635/toggle-visibility-on-mouse-over#readme"
+}
