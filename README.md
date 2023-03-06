@@ -1,4 +1,4 @@
-# toggle-visibility-on-mouse-over
+# toggle-visibility-on-mouse-event
 <br>
 Imported as 'toggleVisibility', the function must be called with only one argument. The argument must be an HTMLNode.
 The HTML node is passed to the function, the visibility status of all immediate children are toggled on/off.
