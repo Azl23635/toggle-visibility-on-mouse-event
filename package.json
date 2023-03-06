@@ -1,6 +1,6 @@
 {
   "name": "toggle-visibility-on-mouse-over",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Toggles the visibility of the immediate child elements when a parent element is passed.",
   "main": "toggleVisibility.js",
   "scripts": {

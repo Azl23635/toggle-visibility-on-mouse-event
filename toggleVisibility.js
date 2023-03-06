@@ -1,5 +1,4 @@
 exports.toggleVisibility = function (parent) {
-  console.log(parent);
   try {
     if (parent.childElementCount > 0) {
       let children = parent.childNodes;
