@@ -1,6 +1,6 @@
 {
-  "name": "toggle-visibility-on-mouse-over",
-  "version": "1.0.1",
+  "name": "toggle-visibility-on-mouse-event",
+  "version": "1.0.0",
   "description": "Toggles the visibility of the immediate child elements when a parent element is passed.",
   "main": "toggleVisibility.js",
   "scripts": {
@@ -8,13 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Azl23635/toggle-visibility-on-mouse-over.git"
+    "url": "git+https://github.com/Azl23635/toggle-visibility-on-mouse-event.git"
   },
   "keywords": [
     "visibility",
     "mouse",
-    "over",
-    "mouseover",
+    "event",
     "toggle",
     "js",
     "javascript",
@@ -23,7 +22,7 @@
   "author": "Anzel Pyakurel <rmitanzel@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Azl23635/toggle-visibility-on-mouse-over/issues"
+    "url": "https://github.com/Azl23635/toggle-visibility-on-mouse-event/issues"
   },
-  "homepage": "https://github.com/Azl23635/toggle-visibility-on-mouse-over#readme"
+  "homepage": "https://github.com/Azl23635/toggle-visibility-on-mouse-event#readme"
 }
